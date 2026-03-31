@@ -13,4 +13,3 @@ print(f"{dia}/{mês}/{ano}")
 numero_1 = int(input("Digite um numero"))
 numero_2 = int(input("Digite mais um numero"))
 
-print(numero)
